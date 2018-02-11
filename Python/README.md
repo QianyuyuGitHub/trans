@@ -1,32 +1,53 @@
 # Where come to **Python Tutorial**
 _Created by PhD. Candidate_ [Yuyu Qian]
-Zhejiang University Hangzhou <img src="../images/HangZhou.jpg" width="50">, China :cn:
+Zhejiang University <img src="../images/ZJU.png" width="50"> Hangzhou <img src="../images/HangZhou.jpg" width="50">, China :cn:
 
-这是有关于Python处理.csv文件的教程。
+## 这是有关于Python处理.csv文件的教程。
 
-##介绍
-首先，Python是一个脚本语言，需要运行在python环境下，但是不需要编译，程序会通过解释器直接在系统中执行。而且是一种动态语言，十分方便修改。但是也因为这两个特性，分别造成了python在运行效率上和大规模代码管理上的缺陷，当然，你暂时不需要关心这些性能上的缺点。
+## 介绍
+首先，Python是一个脚本语言，需要运行在python环境下，但是**不需要编译**，程序会通过**解释器**(Interpreter)直接在系统中执行。而且是一种动态语言，十分方便修改。但是也因为这两个特性，分别造成了python在运行效率上和大规模代码管理上的缺陷，当然，你暂时不需要关心这些性能上的缺点。
 
-##如何构建Python环境
-当然，可以直接去Python官网下载.exe安装，但是我建议你直接下载Anaconda。
+## 如何构建Python环境
+
+- 下载**Anaconda**
+
+当然，可以直接去Python官网[Python]下载.exe安装，但是我建议你直接下载Anaconda。[Anaconda]
 理由是，Anaconda是一个Python的版本，包和库管理软件。使用Anaconda，你可以在你的电脑上同时拥有多个版本的Python环境，并且自如切换。
-举个例子，首先去官网下载安装Anaconda（无所谓版本，但是建议直接安装最新版，安装过程中请不要修给最后的那些选项，尤其是Path选项，可能会导致奇怪的错误。）
+首先去官网下载安装Anaconda [Anaconda]（无所谓版本，但是建议直接安装Python 3.6 Version最新版，安装过程中请不要修给最后的那些选项，尤其是Path选项，可能会导致奇怪的错误。）
 
-##然后在windows栏中搜索
+[Python]: <https://www.python.org/downloads/>
+[Anaconda]: <https://www.anaconda.com/download/>
+
+- 然后在windows栏中搜索 Anaconda Prompt:
+
+	<img src="../images/AnacondaPrompt.png" width="300">
  
-因为如果你没有勾选那个Path选项，只能在这里才能使用Conda指令。
+因为如果你没有勾选那个Path选项，只能在这里才能使用Conda指令,**以后你需要修改你的Conda环境或者直接在命令行使用Python，那么务必使用Anaconda Prompt**。
+
+- 安装Python环境
+
 接下来是安装你的Python环境，在你安装完Anaconda以后，你已经在系统里获得了一个Python环境，但是如果你想获得不同的环境，或者你想方便管理你的环境，请按照下面步骤过一遍。
 
 	>>conda create -n thePythonEnvironmentName python=3.5 (取一个你喜欢名字，版本可以不是3.5可以是3.6/2.7或者任意你想要的版本)
 	>>activate thePythonEnvironmentName (这会让你接下来的所有操作是在这个环境中的)
 	(thePythonEnvironmentName)>>pip install PackageName (这个命令可以让你在该环境中安装名字为PackageName的包)
 
-然后你就可以在C:/User/你的用户名字/Anaconda3/envs/下看到你明明的环境名称
-搞定了环境，你就需要一个IDE来帮忙了，IDE全称整合开发环境，也就说这个包含了你开发所需要的一切。PyCharm是一款十分优秀的IDE，下载安装，可以使用edu版本，免费哦。
+然后你就可以在C:/User/你的用户名字/Anaconda3/envs/下看到你明明的环境名称。
+
+你可以重复上述步骤来安装多种环境，比如你还需要一个python2.7的环境，那么你只需要将上面的版本号改成2.7就可以了，其它的就任由你自己去配置。
+
+- 安装IDE
+
+
+搞定了环境，你就需要一个IDE来帮忙了，IDE全称整合开发环境，也就说这个包含了你开发所需要的一切。PyCharm[PyCharm Edu]是一款十分优秀的IDE，下载安装，可以使用edu版本，免费哦。
+
+[PyCharm Edu]: <https://www.jetbrains.com/pycharm-edu/download/#section=windows>
+
+- 配置PyCharm里的python环境
 
 然后你需要做的就是在PyCharm里
- 
-在设置中设定好Interpreter，然后新建工程，新建Python文件，编写代码就可以运行Python了！
+
+新建工程，新建Python文件，在设置中设定好Interpreter，编写代码就可以运行Python了！
 
 Python 处理.csv文件
 注释
