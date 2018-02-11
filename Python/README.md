@@ -1,6 +1,6 @@
 # Where come to **Python Tutorial**
 _Created by PhD. Candidate_ [Yuyu Qian]
-Zhejiang University Hangzhou ![Hangzhou Image](../images/HangZhou.jpg), China :cn:
+Zhejiang University Hangzhou ![Hangzhou Image](../images/HangZhou.jpg =50*50), China :cn:
 
 这是有关于Python处理.csv文件的教程。
 
