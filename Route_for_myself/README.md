@@ -12,7 +12,11 @@
 ## TensorFlow Stuff:
 - A GitHub TensorFlow TFRecord tutorial. [GH1]
 
+## Other Interesting Stuff:
+- Images in commic style. [GitHub Octodex]
+
 [CS 20SI]: <https://web.stanford.edu/class/cs20si/2017/syllabus.html>
 [YT1]: <https://www.youtube.com/watch?v=BhQW2OLzx_c>
 [GH1]: <https://github.com/yeephycho/tensorflow_input_image_by_tfrecord/tree/master/src>
 [Python Course]: <https://www.python-course.eu/index.php>
+[GitHub Octodex]: <https://octodex.github.com/>
