@@ -16,7 +16,7 @@ And there is also some descent ways to use English.:heartbeat:
 | English | Chinese |
 | ------ | ------ |
 | assign value to parameter | 赋值到变量 |
-|You can develop a **state of the art** model with high-level intuitive code, **In short**, it is generally much easier to create models **with** Estimators than **with** the low-level TensorFlow APIs.||
+|You can develop a **state of the art** model with high-level intuitive code, **In short**, it is generally much easier to create models **with** Estimators than **with** the low-level TensorFlow APIs.|state of the art sth.|
 
 # Elegant way
 
@@ -75,7 +75,69 @@ And there is also some descent ways to use English.:heartbeat:
 
 
 
+# Slangs
+
+|English|Chinese|
+|-|-|
+|back to the drawing board|从头开始。F: The boss sent them back to the drawing board.|
+|Foot the bill|付账|
+|We arrived two hours late at the big blow-out for Charlie's birthday because our car had a blow-out.|这句话里第一个blow-out是指规模很大的聚会,第二个blow-out是指汽车的轮胎炸了。整个句子的意思是:"由于我们车胎炸了,所以我们晚了两个小时才到达查理举行生日宴会的地方。|
+|Mr. Rockefeller bought the whole oil company **lock, stock and barrel**.|Lock, stock and barrel和Hook, line and sinker都是全部的意思,可是用法却不同。|
+|I warned Sally not to believe that man's stories about how rich he was, but she swallowed them **hook, line and sinker**. After she married him, she found out that he **owed everyone in his office money**.|Lock, stock and barrel和Hook, line and sinker都是全部的意思,可是用法却不同。Hook, line and sinker有欺骗的意思|
+|Honey, let me take you out to dinner. But you know I don't feel like dressing up to go some place fancy. How about just going down the street to the greasy spoon and getting hamburgers?|Greasy spoon指那些有点像夫妻老婆店那样的小饭馆|
+|**Say**, Charley, if you don't have plans for tonight, why don't you come out to our house and have a **potluck** with us? Helen won't have time to cook anything special, but she can put an extra plate on the table for you.|喂，查理，你要是晚上没事就上我家来吃**便饭。有什么吃什么**。我太太不一 定有什么时间做什么菜，但是多加一份筷子是绝对没有问题的。 <br> Potluck 作为一个字,它指的是美国一种经常举行的聚会形式。也就是在某一个人,或几个人的提议下举行一个午餐会或晚餐会,但是参加聚会的每个人都要带一个菜或者带一种饭后甜食。主人除了为聚会提供场地外,也只要准备一个菜,或买一些饮料就行了。这就叫作: Potluck lunch or potluck supper.|
+|I haven't had a chance to prepare any notes so all I can do is start talking and **play it by ear.** <br> "I am not sure if my wife wants me to go shopping with her on Sunday. If she decides to go with her sister instead, then I can play tennis with you. Let's just play it by ear.|它原来指的是那些会弹钢琴或某种乐器，但是却不会看五线谱的人。每当他们要弹奏某个曲调时，他们只能凭着上一回听到的记忆来弹。可是play by ear现在已经成为日常用语了，意思是做一件事不是事先有计划的，而是走着瞧，临时决定。|
+|It goes in one ear and out the other.|当耳边风|
+|doggy bag|打包盒|
+|I would like to have my eggs **sunny side up**|要是你喜欢吃只煎一面的荷包蛋，那你就应该对服务员说:你要你的鸡蛋,Sunny side up.|
+|Over easy|是你愿意要荷包蛋两面都煎一下的，那你就说你要:Over easy.|
+|throw cold water on something|泼冷水|
+|in hot water| 处境困难|
+
 # Some other notes from Internet
+
+## from Reddit
+What do all these acronyms mean?
+
+|English|Chinese|
+|-|-|
+|AFAIK | “As far as I know”|
+|AMA | “Ask me anything”, a Q&A style discussion with the author of a post.|
+|CCW | “Comments and criticism welcome”|
+|CMV | “Change my view”|
+|DAE | “Does anybody else or does anyone else”|
+|DM;HS | “Doesn’t matter; had sex”|
+|ELI5 | "Explain like I'm 5 (years old)"|
+|FIFY and FTFY | “Fixed It For You” and "Fixed that for you", respectively.|
+|FWP | “First world problems”|
+|GGG | is a reference to the “Good Guy Greg” or “Good Girl Gina” meme|
+|GTFO | “Get the f**k out”|
+|HIFW | “How I feel when”|
+|HMB | “Hold my beer”|
+|IAmA | "I am a.” This is the standard way to begin the title of an AMA (Ask me anything) post.|
+|IANAD | "I am not a doctor"|
+|IANAL | "I am not a lawyer"|
+|IIRC | "If I recall correctly"|
+|IMO and IMHO | "In my opinion" and "In my humble/honest opinion", respectively.|
+|IRL | “In real life”|
+|ITT | "In this thread"|
+|LOL | “Laugh out loud”|
+|MRW and MFW | "My reaction when" and "My face when", respectively.|
+|NSFL | "Not safe for life" (explicit and offensive; often gore)|
+|NSFW | "Not safe for work" (This label means that content may be considered offensive, and inappropriate for viewing in public spaces or when minors are present.This label covers, but is not limited to, any mature or explicit content, and can also include bawdy references or stories.)|
+|OAG | references the “Overly attached girlfriend” meme|
+|OC | “Original content”, meaning the author of the post created the content shown or linked in the post.|
+|OP | "Original poster", the author of the post.|
+|PSA | "Public service announcement"|
+|SMH | “shake/shaking my head”|
+|SO | “Significant other”|
+|TIFU | “Today I f**ked up”|
+|TIL | "Today I learned"||
+|TL;DR | "Too long; Didn't read.” Sometimes used as a synonym for summary.|
+|WIP | “Work in progress"|
+|YMMV | “Your mileage may vary”|
+|YSK | "You should know"|
+|ಠ_ಠ | is an emoticon that means disapproval. Often used sarcastically.|
 
 比如说喜欢一个东西土著会说I dig而不是I like；高兴时土著会说I’m stoked而不是I’m excited；饿了土著会说I need grub而不是I need food（高级土著会说I need sustenance）；要呕吐了土著会说I’m gonna barf而不是I’m gonna puke（高级土著会说I’m gonna regurgitate）。其实括号里是开玩笑的，高级土著们不会那么说。
 
