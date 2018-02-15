@@ -11,6 +11,39 @@ And there is also some descent ways to use English.:heartbeat:
 - Each time before you change your own file, please **pull the update from remote**.
 - Each time before you push your own update to the remote, you should check **if your local version is the newest version**.
 
+# Sentences 
+
+|English|Chinese|
+|-|-|
+|Prison officers continued to **patrol** the grounds within the jail.|狱警继续**巡视**监狱。|
+|The **infantry** were advancing to attack the ridge|步兵部队正在向前挺进攻打山脊。|
+|You have died, a sheep without soul, which has already been engulfed by **maggot's worm**.|您死了，一只绵羊没有灵魂，那些**蛆虫**已经准备好吞噬你。n. 蛆; adj. 多蛆的;|
+|A rational method of **disposal** for a the dowel bar is **proposed** through test-in-place and finite element analysis.|**提出**了传力杆的合理**布置**方式，并通过现场试验和数值模拟进行了分析和验证。 disposal 处置|
+|The work space is a bare and **cavernous** warehouse.|工作场地是个**空荡荡**的大仓库。|
+|Around 1910 **motorized carriages** were beginning to replace horse-drawn cabs.|大约从1910年起，机动车开始取代马车。carriages 车厢|
+|We don't like **romps and flirts**, though we may act as if we did sometimes.|我们不喜欢**轻佻女和调情郎**，虽然有时我们表面上看似喜欢他们。romp 无忧无虑，嬉戏玩闹|
+|However, prostatic hyperplasia is not a premalignant **lesion**.|不过，前列腺增生不是癌前**病变**。|
+|He had a small green **rucksack slung** over one shoulder.|他单肩挎着一个绿色的**帆布小背包**。 slung 吊挂; 抛( sling的过去式和过去分词 ); 遣送; 押往;|
+|This model has been validated with the **cadaver** test results.|根据已有的**尸体**实验结果，验证了模型的可靠性。 corpse 也是尸体|
+|She was spooning coffee **granules** into cups.|她在用勺往杯子里舀咖啡颗粒。granule: A small compact particle of a substance.|
+|**Antibiotics** were of no use, neither were other **pharmaceuticals**.|**抗生素**没有效果，其他**药物**也没有作用。|
+|He started down the centre **aisle**.|他从中间**过道**开始往前走。 也有婚礼那条走道的意思|
+|Press the raspberries through a **fine sieve** to form a puree.|用一个**细筛子**将山莓压碎过滤，以制成山莓泥。|
+|Everything in her life is just peachy.| 她生活中的一切都非常棒。peachy 桃色的|
+|The woman carried a **bouquet** of dried violets.|这个女人拿着**一束**干枯的紫罗兰。|
+|Students are asked to prepare material in advance of each weekly **seminar**.| 学生要在上每星期的**研讨课**前备好材料。|
+|The leaves had been swept into huge **piles**.|树叶被扫成了一大**堆**一大堆的。|
+|**Sprinkle** the meat with salt and place in the pan|在肉上**撒**上盐，然后放进平底锅。|
+|He's just squirted us with the **hosepipe**!|他刚刚用**管子**把我们喷湿了！|
+|I suffered a nervous breakdown. It was a **traumatic** experience|我曾经神经崩溃过。那是一次**痛苦**的经历。|
+|The Government has already closed down two newspapers **in a bid to** silence its critics.|政府已经查禁了两家报纸，**试图**压制批评人士的言论。|
+|He had **angina** and was unable to walk for more than 200 yards on the flat.|他患有**心绞痛**，在平地上最多能走200码。|
+|He has Parkinson's Disease-a **degenerative** disease of the central nervous system.|他患了帕金森症。帕金森症是中枢神经系统**退化性**疾病。|
+|The crew discovered the **stowaway** about two days into their **voyage**.|船员在开船约两天后发现了那名**偷乘者**。|
+|We should send a man to **superintend** the **erection** of machinery.|我们应派一个人去**监督**机器的**安装**。 erection 有勃起的意思|
+|Steve and I were at very different stages in our **respective careers**| 史蒂夫和我在**各自的职业生涯**中处于迥然不同的阶段。|
+
+
 # Techenical/Scientific English
 
 | English | Chinese |
@@ -62,6 +95,8 @@ And there is also some descent ways to use English.:heartbeat:
 |* trophy|* 奖杯|
 |to hell with sb|去他妈的***|
 |or rather ...|更确切得说...|
+|spooning|侧入|
+|erection|勃起|
 
 # News
 
