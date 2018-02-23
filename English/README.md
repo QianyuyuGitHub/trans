@@ -42,7 +42,18 @@ And there is also some descent ways to use English.:heartbeat:
 |The crew discovered the **stowaway** about two days into their **voyage**.|船员在开船约两天后发现了那名**偷乘者**。|
 |We should send a man to **superintend** the **erection** of machinery.|我们应派一个人去**监督**机器的**安装**。 erection 有勃起的意思|
 |Steve and I were at very different stages in our **respective careers**| 史蒂夫和我在**各自的职业生涯**中处于迥然不同的阶段。|
-
+|The accused man claimed that he'd been in another city the night of the murder. But his story didn't **hold water** after three different witnesses testified in court that they had seen him running from the scene of the crime.|这个被控告的人说，发生谋杀案的那天晚上他出门去了，不在当地。但是，有三个不同的证人都出庭作证说，他们看见他从作案的地点逃跑。因此，他说出事那天他不在当地的说法根本是靠不住的。 That excuse simply doesn't hold water."意思是：那个借口根本站不住脚|
+|I keep telling my friend it's foolish to gamble all of his money, but it's like **water off a duck's back.**|我一直告诉我的朋友，不要那么傻，把所有的工资都用在赌博上。可是，我的话对他全然不起作用。|
+|The doctors tell us it`s dangerous to smoke, but such good advice rolls off of some people like **water off of a duck's back**.|医生都告诉我们抽烟对身体是有害的。可是，这种劝告对于有些人来说就像耳边风一样，毫无作用。|
+|The roast duck that restaurant serves is my favorite dish. Every time I think about it, it **makes my mouth water**.|我最喜欢吃那个饭馆的烤鸭。每当我想起它我就会**流口水**。|
+|The retreating German army tried to **blow up** all the bridges on the Rhine River to stop the Allied troops from crossing into Germany.|正在撤退的德国军队设法**炸毁**莱茵河上所有的桥梁来阻挡联军越过莱茵河进入德国。|
+|I really **blew up** when I learned that my girlfriend was going out with another man.|发火|
+|My car smashed into a tree when I had a **blow-out**.|爆胎|
+|I have to stop at the gas station to **blow up** my front tyres.|给车胎打气|
+|You'd better **blow out** that candle before it sets fire to the **tablecloth**.|吹灭; 桌布|
+|All the lights went off in the building and the elevators stopped when the master fuse blew out.|大楼的总**保险丝一断**，楼里所有的灯都灭了，电梯也停了。|
+|When the Lees celebrated their 25th anniversary, they invited all their friends to a big **blow-out** at the best hotel in town.|当李家夫妇庆祝他们结婚二十五周年的时候，他们在当地最高级的旅馆里举行了一个**规模盛大的聚会**,把所有的朋友都请去了。|
+|||
 
 # Techenical/Scientific English
 
