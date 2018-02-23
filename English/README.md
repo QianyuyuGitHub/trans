@@ -53,7 +53,19 @@ And there is also some descent ways to use English.:heartbeat:
 |You'd better **blow out** that candle before it sets fire to the **tablecloth**.|吹灭; 桌布|
 |All the lights went off in the building and the elevators stopped when the master fuse blew out.|大楼的总**保险丝一断**，楼里所有的灯都灭了，电梯也停了。|
 |When the Lees celebrated their 25th anniversary, they invited all their friends to a big **blow-out** at the best hotel in town.|当李家夫妇庆祝他们结婚二十五周年的时候，他们在当地最高级的旅馆里举行了一个**规模盛大的聚会**,把所有的朋友都请去了。|
-|||
+|Ed's wife is a strong-minded woman and **leads** him around **by the nose**.|埃德的太太是一个个性很强的人，埃德简直就是被她牵着鼻子走。|
+|Remember, Son, don`t let other people **lead** you around **by the nose**. You'll get along a lot better in life if you use your own judgment and do what you yourself think is the right thing.|儿子，你可千万要记住不要让别人牵着你的鼻子走。要是你能用你自己的判断力，做你认为是对的事，那你的日子会过得好得多。|
+|See, they were right **under your nose** the entire time.|瞧，你的眼镜一直**在你的鼻子底下**。 Under your nose的意思也就是一样东西离你很近，但是，你就是没有看到。|
+|Did you read in the paper how bold that robber was at the art museum? He cut three paintings from their frames and walked out with them right **under the guards' noses**.|你有没有在报上看到关于那个去博物馆偷东西的贼有多么大胆的消息吗？他把三幅画从镜框里割了下来，然后就竟然**在警卫的鼻子底下**带出了博物馆。|
+|I have bad news: our sales were off 18% for the last quarter. So I'm telling you guys -- you have to **pull your socks up* and get out there and sell more stuff, or you'll be looking for new jobs this summer.|我有个不好的消息：我们上一季度的销售量下降了18%，所以我告诉你们，你们**赶快振作起来**到外面去加紧推销。否则，你们今年夏天就要另外找工作了。|
+|Wait until you hear my new marketing plan -- it'll **knock you socks off!**|等你们听到我的推销计划时，**你们都会大吃一惊的。** (也就是说，他的推销计划简直好极了，那些推销员听了会十分惊讶的。)|
+|Have you seen Jack's sister, who's here visiting from California? She'll **knock your socks off**: she's the most gorgeous-looking woman I've seen for a long time.|你见到了杰克那个从加州来的妹妹吗？我好久没有见到过这样漂亮的女孩了，她简直是**美得惊人**。|
+|I never know whether my boss likes my work or not -- he is a real poker face!|我从来也不知道我的老板到底喜不喜欢我的工作。他脸上可真是**一点表情都没有**。|
+|I tried to keep a **poker face** even though I was scared to death when I went back to my doctor to hear the results of my lab tests. But I admit I gave him the biggest smile of my life when he told me the tests were negative and there was nothing wrong with me.|当我去医生那里去看试验结果的时候，我害怕得要死。可是我尽量装得**若无其事**。不过，当大夫告诉我化验结果是阴性；我没有问题的时候，我对他笑了，我大概一辈子也没有笑得那么高兴的。|
+|close to the vest|玩牌的时候脸上不露表情的人往往都很谨慎，把牌放在靠胸口的地方，免得给别人偷看。这在英文里就是 close to the vest|
+|wo other governors have already announced that they will run for president in the next election but the governor of our state is still keeping his plans **close to his vest** -- nobody is sure what he will do.|另外又有两位州长宣布他们决定参加下一届的总统竞选。可是我们的州长还是对他的**计划保密**，谁也不知道他究竟参不参加。|
+|John, **keep this close to your vest** but I want to tell you our company is going to merge with a big New York corporation -- they'll announce it sometime next week.|约翰，我要告诉你，我们的公司要和纽约的一家大公司合并了，他们下星期内就要宣布。**不过你知道就行了，不要往外说。**|
+|http://www.unsv.com/voanews/words-and-idioms/?page=22|俗语网站|
 
 # Techenical/Scientific English
 
