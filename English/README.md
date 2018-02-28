@@ -11,6 +11,27 @@ And there is also some descent ways to use English.:heartbeat:
 - Each time before you change your own file, please **pull the update from remote**.
 - Each time before you push your own update to the remote, you should check **if your local version is the newest version**.
 
+# Instances
+
+|English|Chinese|
+|-|-|
+|Parliament gained certain rights of **amendment**.|议会得到一定的修正权利。 fifth amendment 第五修正案： 有权保持沉默|
+|Be having the understanding of **exactitude** to business English in the meantime, also want to oneself the do of circumstance be an analysis.|在对商务英语有了正确的认识同时，也要对自己情况的做一个分析。 n. 正确; 精密; 精确; 严格;|
+|The prosecuting attorney cannot question the accused, as the US Constitution forbids self-incrimination.|检察官不可以询问被告，因为美国宪法禁止“自证其罪”。|
+|I cursed and hobbled to my feet.|我咒骂着一瘸一拐地站起来。|
+|He was stripped of his Olympic title after testing positive for anabolic steroids.|在促蛋白合成类固醇检测呈阳性后，他被取消了奥林匹克冠军头衔。|
+|You will have to take your prescription to a chemist.|你得拿着处方去找药剂师。|
+|I have a bowl of **cereal** every morning.|我每天早上喝一碗麦片。|
+|The intruder smashed a window to get in and then **neutralized** the alarm system.|闯入者打碎了一扇窗户进来，然后**破坏**了警报系统。|
+|At the required level of visual **verisimilitude**, computer animation is costly.|要使电脑动画的视觉效果达到要求的**逼真程度**，花费会十分昂贵。|
+|He **vacated** the flat and went to stay with an uncle|他**搬**出了公寓，住到了他的一个叔叔那里。|
+|I went out for a meal last night and drank **copious** amounts of red wine|我昨晚出去吃饭，喝了**很多**红酒。|
+|The country was on the **verge** of becoming prosperous and successful|这个国家即将走向繁荣富强。  n. 边，边缘; 界限; 范围; 起始点; vi. 接近，逼近; 处于边沿或边缘;|
+|It is the second airline in two months to **file for bankruptcy**|这是两个月内第二家**申请破产**的航空公司。|
+|The girls caught only a **fleeting glimpse** of the driver|女孩们只**匆匆瞥了一眼**司机。 adj. 短暂的; 稍纵即逝; 疾驰的，飞逝的; 翩;|
+|He **shoved** me back out of the room.|他把我从房间里**推**了出来。|
+|The next place on our **itinerary** was Silistra.|我们**行程**的下一站是锡利斯特拉。|
+
 # Sentences 
 
 |English|Chinese|
@@ -91,7 +112,7 @@ And there is also some descent ways to use English.:heartbeat:
 |Footage of the incident `garnered` millions of views, with many accusing the woman of making an irresponsible clothing choice.|garner 囊括/蓄积。这句话指这个镜头有数百万浏览量|
 |decency|得体，风化|
 |original content prior|原创抢先内容|
-|||
+|melt polar ice caps|摆脱职场天花板|
 
 # From IT Field
 
@@ -120,6 +141,41 @@ And there is also some descent ways to use English.:heartbeat:
 |or rather ...|更确切得说...|
 |spooning|侧入|
 |erection|勃起|
+|rolling rock|淡啤酒|
+|flat fee|固定收费|
+|This is lying in wait|这是守株待兔|
+|door pane|门上的小窗|
+|that depends on the individual|因人而异|
+|stick them up|不许动(装可爱)|
+|he is a trapeze artist|他是一个交际草| 
+|be a sport|配合点|
+|score|卖|
+|toss someone's house|搜查屋子|
+|His **landlord** doubled the rent.|他的房东把租金提高了一倍。|
+|The judge finally concluded there was insufficient evidence of premeditation.|法官最终作出判定，没有足够证据证明那是有预谋的。|
+|No one knew how to treat this **dreaded** disease.|没人知道如何治疗这种可怕的疾病。  adj. 令人畏惧的; 害怕的; v. 害怕，恐惧，担心( dread的过去式和过去分词);|
+|This witness has committed **perjury** and no reliance can be placed on her evidence.|这名证人作了**伪证**，她的证词不可信。|
+|Laughing is **contagious**|笑是有感染力的。 adj. 有传染性的; 传染病的; 有感染力的; 会蔓延的;|
+|I had a slight **altercation** with some people who objected to our filming.|我和一些反对我们拍摄的人发生了小小的口角。|
+|Make sure you understand exactly how to take your medicines before you leave the **pharmacy**.|在离开**药房**之前，一定要弄明白自己的药该怎么吃。|
+|Blackburn said his father, the late Stanley blackburn, and his uncle John ed Blackburn were **aviators**.|布莱克本说他父亲，斯坦利布莱克本，和他的叔叔约翰瑞德布莱克本都是飞行员。|
+|In 1977 he was **convicted** of murder and sentenced to life imprisonment|1977年，他被**判**谋杀罪名成立，判处终身监禁。|
+|yarn|毛线球|
+|They say somebody **slit** her throat|他们说有人割断了她的喉咙。 vt. 切开，撕开; 使有狭缝; n. 裂缝; 狭长切口; 投币口;|
+|The police have decided not to **prosecute** because the evidence is not strong enough|由于证据不足，警方已决定不**起诉**。|
+|The lawyers face permanent **disbarment** over the charges.|如果罪名成立，他们将面临终身被**吊销律师执照**。  n. <法> 取消律师资格，将某律师除名，驱逐出律师界;|
+|He was **reprimanded** by a teacher for talking in the corridor|他因为在走廊里讲话受到了一位老师的**斥责**。 reprimand n. 谴责; 训斥; 惩戒; vt. 谴责; 惩戒; 责难;|
+|I had a terrible **quarrel** with my other brothers|我跟其他几个兄弟大吵了**一架**。 n. 争吵，口角; 反目; 抱怨…的原因（理由）; vi. 争辩，争吵; 不同意; 挑剔; 责备，埋怨;|
+|Most **Conservative** MPs appear happy with the government's reassurances.|大多数**保守党**下议院议员似乎都对政府的再三保证感到满意。 n. 保守的人; （英国） 保守党党员，保守党支持者; adj. 保守的; （英国） 保守党的; （式样等） 不时新的;|
+|The Russian leader won a **whopping** 89.9 percent yes vote|这位俄罗斯领导人赢得了89.9%的**高**票支持。 adj.巨大的，庞大的; adv.非常地，异常地; v.打( whop的现在分词 ); 抽出; 打败; 征服;|
+|A poem **testifies** to that.|有诗为证。 testifies v. 作证，证明( testify的第三人称单数 ); 证明，证实;|
+|He has been served with a **subpoena** to answer the charges in court.|他接到**传票**要出庭应诉。|
+|authentic|
+|hotheads|
+|deputy|
+|condemn|
+|civic duty|公共职责|
+
 
 # News
 
