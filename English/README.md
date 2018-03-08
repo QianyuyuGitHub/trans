@@ -65,6 +65,8 @@ And there is also some descent ways to use English.:heartbeat:
 |We've got **pubic hairs**, vaginal secretions.|我们找到了阴毛和阴道分泌物。 阴毛的，阴部的|
 |He lamented that four years of his life had gone down the drain because of an injury to his **groin**.|他痛惜他四年的生活就因**大腿根部**的伤被毁掉了。|
 |I had deliberately picked a city with a **tropical** climate.|我特意选了一个**热带气候的**城市。|
+|We neglect these aberrations in this chapter, but revisit radial distortion in chapter 3 when **we address the problem of** estimating the intrinsic and extrinsic parameters of a camera.|当我们讨论sth.问题的时候。 论文科技文中可以用来表示承接，或者转折。|
+|putting it all togetherm, we obtain|把这些汇总，我们得到|
 
 # Sentences 
 
