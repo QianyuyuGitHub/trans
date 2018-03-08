@@ -31,6 +31,40 @@ And there is also some descent ways to use English.:heartbeat:
 |The girls caught only a **fleeting glimpse** of the driver|女孩们只**匆匆瞥了一眼**司机。 adj. 短暂的; 稍纵即逝; 疾驰的，飞逝的; 翩;|
 |He **shoved** me back out of the room.|他把我从房间里**推**了出来。|
 |The next place on our **itinerary** was Silistra.|我们**行程**的下一站是锡利斯特拉。|
+|They used to have a **cottage** in N.W. Scotland|他们原来在苏格兰西北部有一间**小屋**。 n. 小屋，村舍; （农舍式的） 小别墅; （郊外的） 新式住宅，（大院内的）单幢住宅; 乡下房子，小房子;|
+|It was **exhilarating** to be on the road again and his spirits rose.|重新踏上旅途令他非常振奋，**兴致高涨**。 exhilarate 使兴奋|
+|The next place on our **itinerary** was Silistra.|我们**行程**的下一站是锡利斯特拉。|
+|He has been served with a **subpoena** to answer the charges in court.|他接到**传票**要出庭应诉。|
+|A crane had to be used to **haul** the car out of the stream|只好用了起重机，才将轿车从河里**拖**出来。|
+|I pressed a **dime** into his grubby mitt.|我把一个**十分硬币**塞进他脏兮兮的手里。|
+|that's not my department|这不关我的事情|
+|For breakfast I had a thick slice of bread and **syrup**|早餐我吃了一片厚厚的涂了**糖浆**的面包。|
+|It was a better community then when all the ＊＊pits＊＊ were working.|所有的＊＊煤矿＊＊都在开工的那个时候，这个社区的情况要更好一些。|
+|A range of ointments and creams is available for the treatment of **eczema**|有一系列治疗**湿疹**的油膏和乳膏可以买到。|
+|He won admiration for his **forensic** skills in cross-examining ministers.|他在盘问几位部长时表现出的**问案**技巧为他赢得了赞赏。 adj. 法庭的，法院的; 公开辩论的，论争的; 适于法庭的; n. 辩论练习; 辩论学，辩论术;|
+|Ultrastructural investigations have become an integral part of cell biology and **pathology**.|超微结构的研究已成为细胞生物学和**病理学**的主要部分。|
+|Sons are traditionally expected to **emulate** their fathers.|历来认为儿子会**仿效**父亲。|
+|Margaret **resides** with her invalid mother in a London suburb|玛格丽特同她病弱的母亲**住**在伦敦郊区。 vi. 住，居住，（官吏）留驻，驻在; （性质）存在，具备，（权力，权利等）属于，归于;|
+|An 11-year-old boy committed a **burglary**|一个11岁的小男孩犯了**入室盗窃**罪。|
+|They were **trespassing** on private property|他们**擅自闯入**私人房屋。|
+|The murderer was at once **apprehended**.|凶犯立即被**拘捕**了。 apprehend的过去式和过去分词|
+|I think I left my riding crop in the **mortuary**.|我想我是把鞭子忘在**停尸房**了。|
+|The judge ruled that the evidence was **inadmissible**.|法官裁定该证据不能被**采信**。 不能允许的，不可接受的;|
+|It might be considered **heresy** to suggest such a notion.|提出这样一个观点可能会被视为**异端邪说**。|
+|He **disregarded** the advice of his **executives**|他对**主管层**的建议**置若罔闻**。|
+|And then Captain Charles sings, 'Don't ever laugh when a **hearse** goes by or you will be the next to die.'|随后查尔斯船长唱到：“如果你不想下一个死的是你，当**灵车**走过时绝不要笑。”|
+|Everything I had accomplished seemed to **affirm** that opinion.|我所取得的一切似乎都**证明**那个观点是对的。|
+|He expressed his **condolences** to the families of the people who died in the incident.|他向这次事件中的死者家属表示了**慰唁**。|
+|Many people have been **outraged** by some of the things that have been said|其中的一些言论**激怒**了很多人。|
+|**Probate** cases can go on for two years or more.|**遗嘱认证**案可能要持续两年或者更长时间。|
+|Over time, the technology is **diffused** and adopted by other countries.|久而久之，这项技术**传播**到了其他国家并得到利用。 diffuse|
+|The man who makes the most coveted art in India lives in a small fourth-floor **walk-up** apartment in a crowded, unremarkable suburb.|他的作品在印度最令人垂延，而他却只是住在闹市中一栋四层高而且**没有电梯的**、难以引人注意的小公寓里面。 walk-up 无电梯的公寓; 无电梯的|
+|**Xenophobic** nationalism is on the rise in some West European countries|西欧一些国家的**仇外**民族主义有所抬头。|
+|She lay at the bottom of the stairs, **whimpering** in pain|她躺在楼梯底部，痛得**呜咽**着。|
+|She flits from one **exotic** location to another.|她辗转于**异国他乡**。 adj. 异国的; 外来的; 异乎寻常的，奇异的; 吸引人的; n. 舶来品，外来物; 脱衣舞女;|
+|We've got **pubic hairs**, vaginal secretions.|我们找到了阴毛和阴道分泌物。 阴毛的，阴部的|
+|He lamented that four years of his life had gone down the drain because of an injury to his **groin**.|他痛惜他四年的生活就因**大腿根部**的伤被毁掉了。|
+|I had deliberately picked a city with a **tropical** climate.|我特意选了一个**热带气候的**城市。|
 
 # Sentences 
 
