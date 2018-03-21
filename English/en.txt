@@ -554,3 +554,16 @@ cigarette
 immigration
 primitive polynomial
 robust
+factor
+Base number
+Integer
+Decimal
+fraction
+Accuracy
+algorithm
+logarithm
+dichotomy
+Order
+Polynomial
+Binary
+Immigration
