@@ -157,6 +157,7 @@ And there is also some descent ways to use English.:heartbeat:
 | snippet | 代码段 |
 |A Dataset **comprising** records from one or more TFRecord files.|包含|
 |The Dataset.output_types and Dataset.output_shapes **properties** allow you to inspect the inferred types and shapes of each component of a dataset element. |属性(常用意思应该是资产)|
+|compress and decompress files|压缩和解压文件|
 
 # From Series
 
