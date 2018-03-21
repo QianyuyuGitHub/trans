@@ -185,4 +185,78 @@ Ok，在这个有针对的教程里，我会带领你领略python对于处理一
 - 在循环内加一个for a in row 呢？
 - 为什么print中用了end?不用呢？结果为什么会有区别？
 
+#### 第二天
+
+打开文件用 **with open()** syntax。
+
+写入文件也同样需要打开，但是`open(fileName, 'w')`中的参数变成了w 也就是write。
+
+有时候你会用到`open(fileName, 'w+')`其中的+表示如果打开的文件是可写可读的。
+
+那么如果`open(fileName, 'r+')`呢？你可以试试如下代码：
+
+ <img src="../images/fileOpen1.png" width="400">
+
+ 在.py文件根目录下找到**new.txt**然后打开看看。
+
+ `open(fileName, 'a+')`的意思就是appending(附加)！
+
+ 思考题1： 那么如果把 `open(fileName, 'w+')`改成 `open(fileName, 'a+')`呢？
+
+ 那么应用到上一次的代码中：
+
+	with open(filePath, 'r') as csvFile:
+		for row in csvFile:
+			print(row, end='')
+		 	with open('./newCSV.csv', 'w+') as csvFile2:
+		 		csvFile2.write(row)
+
+运行代码后在根目录下找到文件打开看看把，是不是成功写入了
+
+思考题2： 但是等等，如果csv文件有10000行呢？或者你可以试试1000行：
+
+	# 试一下1000行的.csv文件
+	with open(filePath, 'r') as csvFile:
+		for row in csvFile:
+			#去掉了print，因为print会导致程序运行缓慢
+		 	with open('./newCSV.csv', 'w+') as csvFile2:
+		 		csvFile2.write(row)
+
+思考题2的目的是让你思考代码的经济性。因为反复打开关闭文件这一操作是很费时间的，所以应该尽量避免。那么如何应对大规模的数据量呢?
+
+让我们来修改一下我们的代码：
+	
+	rowList = []
+	with open(filePath, 'r') as csvFile:
+		for row in csvFile:
+			rowList.append(row)
+ 	with open('./newCSV.csv', 'w+') as csvFile2:
+ 		for row in rowList:
+ 			csvFile2.write(row)
+
+ 这段代码和思考题中的代码有什么区别呢？ 造成的原因又是什么呢？
+
+`open('./newCSV.csv', 'a+')`是再文件末尾添加新内容，那么如果是`open('./newCSV.csv', 'r+')`呢？
+
+	# 用一个行数少的.csv文件来试试，找出变化
+	with open(filePath, 'r') as csvFile: 
+		for row in csvFile:
+		 	with open('./newCSV.csv', 'r+') as csvFile2:
+		 		csvFile2.write(row)
+
+现在又是一个什么样子的结果呢？
+
+其实'r+'模式是既可读又可写的模式，而在这个模式下，会覆盖之前文件中的内容，但不会像'W+'那样直接清空。
+
+	with open('./new.txt', 'w+') as aF:
+	    aF.write('This Is A Very Long Sentence To Demonstrate The \'r+\' Mode') #why here use \' ???
+	with open('./new.txt', 'r+') as aF:
+	    aF.write('MOMOMOMOMOMO!!!')
+
+思考题3： 为什么要用`\'`？
+
+ok，你现在应该对于open()操作有了一定深度的理解了，接下来，用上for循环去做一些有趣的试验吧。
+
+P.S. For循环在python中和c语言中是相差甚远的，一般在python中会大量使用for x in range(a,b,step)或者for x in y 这样的syntax。如果你想了解更多，请去阅读一下啊python的官方documentation。
+
 [Yuyu Qian]: <qianyuyulys@gmail.com>
