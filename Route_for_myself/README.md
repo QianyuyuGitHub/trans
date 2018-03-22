@@ -49,7 +49,7 @@
 - [FFT](http://ruanx.pw/post/FFT.html) A good explaination of FFT(快速傅里叶变换) for calculating polynomial multiply.
 - [Conway Solders Checkers in Cut The Knot](https://www.cut-the-knot.org/proofs/checker.shtml) A explaination of **Conway Solders** problem.
 - [<<Reaching row 5 in Solitaire Army>>](https://www.chiark.greenend.org.uk/~sgtatham/solarmy/) is a paper about infinity of rows can reach the fifth row of **Conway Solders** problem
-- [腾讯扔杯子问题](./otherMarkdownFiles/腾讯扔杯子问题.md)
+- [腾讯扔杯子问题](./otherMarkdownFiles/TencentCupProblem.md)
 
 
 
