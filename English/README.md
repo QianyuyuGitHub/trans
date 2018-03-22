@@ -149,6 +149,7 @@ And there is also some descent ways to use English.:heartbeat:
 |decency|得体，风化|
 |original content prior|原创抢先内容|
 |melt polar ice caps|摆脱职场天花板|
+|it flattered his vanity to think I was in love with him|满足了虚荣心， flatter 是调情|
 
 # From IT Field
 
