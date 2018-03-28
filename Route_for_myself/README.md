@@ -27,6 +27,7 @@
 
 ## Tutorials:
 - [Codingunit](https://www.codingunit.com/) is for learning programming in several languages.
+- [Uwaterloo_StatWiki](https://wiki.math.uwaterloo.ca/statwiki/index.php?title=main_Page) provides a few sites about computer science lessons.
 
 ## TensorFlow Stuff:
 - A GitHub TensorFlow TFRecord tutorial. [GH1]
@@ -49,7 +50,8 @@
 - [FFT](http://ruanx.pw/post/FFT.html) A good explaination of FFT(快速傅里叶变换) for calculating polynomial multiply.
 - [Conway Solders Checkers in Cut The Knot](https://www.cut-the-knot.org/proofs/checker.shtml) A explaination of **Conway Solders** problem.
 - [<<Reaching row 5 in Solitaire Army>>](https://www.chiark.greenend.org.uk/~sgtatham/solarmy/) is a paper about infinity of rows can reach the fifth row of **Conway Solders** problem
-- [腾讯扔杯子问题](./otherMarkdownFiles/TencentCupProblem.md)
+- [腾讯扔杯子问题](./otherMarkdownFiles/TencentCupProblem.md) 一共有两个杯子，如何确定杯子最高耐受楼层高度。
+- [埃拉托斯特尼筛法](https://zh.wikipedia.org/wiki/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95)确定小素数
 
 
 
