@@ -37,6 +37,8 @@
 
 ## Other Study Materials:
 - [Numerical Recipes C++ Code] is a website containing all the Numerical Recipes C++ Code of that book.
+- [UC Berkeley materials](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa13/slides/) UC Berkeley materials
+- [McGill University Materials](http://www.med.mcgill.ca/epidemiology/hanley/bios601/)  Statistical models materials about from McGill University
 
 ## Some Discrete Materials:
 - [Topcoder](https://www.topcoder.com/) is a kind of **reddit** in programming.
@@ -45,6 +47,7 @@
 - [Stoimen](http://www.stoimen.com/blog/) materials about database and etc.
 - [Cleverlearning](https://www.cleverlearning.co.uk/puzzles.php) Some Puzzles including **Conway Solders** problem.
 - [GitHub Blog](https://blog.github.com/) A blog about GitHub.
+- [ML Wiki](http://mlwiki.org/index.php/Main_Page) Some machine learning concepts explanations.
 
 ## Small Topics:
 - [FFT](http://ruanx.pw/post/FFT.html) A good explaination of FFT(快速傅里叶变换) for calculating polynomial multiply.
@@ -53,7 +56,8 @@
 - [腾讯扔杯子问题](./otherMarkdownFiles/TencentCupProblem.md) 一共有两个杯子，如何确定杯子最高耐受楼层高度。
 - [埃拉托斯特尼筛法](https://zh.wikipedia.org/wiki/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95)确定小素数
 
-
+## Interesting Things:
+- [Jepenese Artist on Small Vision Picture](http://miniature-calendar.com/) 
 
 
 [CS 20SI]: <https://web.stanford.edu/class/cs20si/2017/syllabus.html>
