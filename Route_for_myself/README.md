@@ -41,6 +41,19 @@
 - [McGill University Materials](http://www.med.mcgill.ca/epidemiology/hanley/bios601/)  Statistical models materials about from McGill University
 
 ## Some Discrete Materials:
+- [Freetechbooks](http://www.freetechbooks.com/) This site lists free online computer science, engineering and programming books, textbooks and lecture notes, all of which are legally and freely available. 
+- [Freecomputerbooks](http://freecomputerbooks.com/) Free books about computer science and etc.
+- [scribd](https://zh.scribd.com/) Pay for reading per month.
+
+- [ACM books](https://dl.acm.org/dl.cfm) I think you can download e-books through campuse's IP.(http://books.acm.org/)
+- [Archive Resources](https://archive.org/) Various of all kinds of resources including books and etc.
+- [Openlibrary](https://openlibrary.org/) A lot of e-book resources.
+- [Worldlibrary](http://worldlibrary.net/default.aspx) Biggest public ebook site. Need register.
+- [Worldcat](https://www.worldcat.org/) 世界上最大的图书库目录。
+- [Gutenberg](http://www.gutenberg.org/) Project Gutenberg about to free the books.
+- [Obooko](https://www.obooko.com/) Free ebooks to download.
+- [Justfreebooks](http://www.justfreebooks.info/) Free ebooks to download.
+- [Forgottenbooks](https://www.forgottenbooks.com/en) It is a London-based book publisher specializing in the restoration of old books, both fiction and non-fiction.
 - [Topcoder](https://www.topcoder.com/) is a kind of **reddit** in programming.
 - [Codenlearn](http://www.codenlearn.com/p/home-code-n-learn.html) Simple programming solutions for complex algorithms, puzzles and data-structures.
 - [Codeproject](https://www.codeproject.com/) Q&A website like **StackOverflow**.

@@ -29,7 +29,7 @@ And there is also some descent ways to use English.:heartbeat:
 ```
 > 3. After **Step 2.** you may open the **package control** by `Ctrl+Shift+P`, and enter `install` then click on the **Package Control: Install Package**, then enter `markdown`, select **Markdown Preview**, after s short time, it will install the package for you automatically.
 > 4. You may want to open the file you already cloned from the remote in the previous steps. Now you can select the **EnglishStyles.txt** by the right click on mouse, and choose open with the Sublime Text 3. But for now, you can only see the raw file. Use `Ctrl+Shift+P` and type in `markdown` then click on the **Markdown Preview: Preview in Browser**, then **GitHub**. Now you can read the formated style file in your browser.
-> 5. f you have done the **Step 4.1** you may wonder how to read it without repeating the method every time you open the file. Well, you can transform the file into a **.html** format file, and then you can open the **.html** file by double clicking. First, you should press `Ctrl+Shift+P` and type in `markdown`, but this time you should choose **Markdown Preview: Save to HTML** and then **GitHub**. After done this, you will find a new **EnglishStyles.html** in the root folder.
+> 5. If you have done the **Step 4.1** you may wonder how to read it without repeating the method every time you open the file. Well, you can transform the file into a **.html** format file, and then you can open the **.html** file by double clicking. First, you should press `Ctrl+Shift+P` and type in `markdown`, but this time you should choose **Markdown Preview: Save to HTML** and then **GitHub**. After done this, you will find a new **EnglishStyles.html** in the root folder.
 
 
 
