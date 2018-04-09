@@ -1,5 +1,8 @@
 # There are some good links for knowledges:
 
+## Navigate:
+- [Stackexchange](https://stackexchange.com/sites) All the stackexchange sites nivagation.
+
 ## Mathmatics:
 - [Mathworld] is a greate website to learn about the mathmatic concepts.
 - [Cut The Knot] is a website of a series cool mathmatic problems.
@@ -34,6 +37,9 @@
 
 ## Other Interesting Stuff:
 - Images in commic style. [GitHub Octodex]
+- [Pollev](https://pollev.com/) An interesting PPT interactive website, to vote or something.
+- [Chris Lattner's Homepage](http://nondot.org/sabre/) The creator of Swift language and clang and LLVM!
+- [天才陶哲轩的Blog](https://terrytao.wordpress.com/) 天才陶哲轩的Blog
 
 ## Other Study Materials:
 - [Numerical Recipes C++ Code] is a website containing all the Numerical Recipes C++ Code of that book.
@@ -44,7 +50,6 @@
 - [Freetechbooks](http://www.freetechbooks.com/) This site lists free online computer science, engineering and programming books, textbooks and lecture notes, all of which are legally and freely available. 
 - [Freecomputerbooks](http://freecomputerbooks.com/) Free books about computer science and etc.
 - [scribd](https://zh.scribd.com/) Pay for reading per month.
-
 - [ACM books](https://dl.acm.org/dl.cfm) I think you can download e-books through campuse's IP.(http://books.acm.org/)
 - [Archive Resources](https://archive.org/) Various of all kinds of resources including books and etc.
 - [Openlibrary](https://openlibrary.org/) A lot of e-book resources.
@@ -71,6 +76,9 @@
 
 ## Interesting Things:
 - [Jepenese Artist on Small Vision Picture](http://miniature-calendar.com/) 
+
+## Develope:
+- [Wordpress](https://wordpress.org/plugins/) WordPress is open source software you can use to create a beautiful website, blog, or app.
 
 
 [CS 20SI]: <https://web.stanford.edu/class/cs20si/2017/syllabus.html>
