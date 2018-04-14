@@ -150,6 +150,11 @@ And there is also some descent ways to use English.:heartbeat:
 |original content prior|原创抢先内容|
 |melt polar ice caps|摆脱职场天花板|
 |it flattered his vanity to think I was in love with him|满足了虚荣心， flatter 是调情|
+|be privy to sth.|有利害关系|
+|cost-efficient|性价比高|
+|obsolete|过时的|
+|on par with|与...一一致|
+|prudent|谨慎的|
 
 # From IT Field
 
@@ -159,6 +164,8 @@ And there is also some descent ways to use English.:heartbeat:
 |A Dataset **comprising** records from one or more TFRecord files.|包含|
 |The Dataset.output_types and Dataset.output_shapes **properties** allow you to inspect the inferred types and shapes of each component of a dataset element. |属性(常用意思应该是资产)|
 |compress and decompress files|压缩和解压文件|
+|3rd party vendors|第三方供应商|
+|peripherals|外设|
 
 # From Series
 
