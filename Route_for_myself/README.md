@@ -40,6 +40,7 @@
 - [Python Course] A Python Course which is so comprehensive. 
 - [Scipy] is a python Scipy turorial website. 
 - [Cprogramming] is a c/c++ programming learning website. like [Python Course].
+- [Cplusplus](http://www.cplusplus.com/) Another good website to learn cpp language and ect.
 - [Geeksforgeeks]
 - [Algolist] 
 - [Oopweb](http://oopweb.com/) Since June 2000, the object oriented programming web has been an online authority in free programming and computer science tutorials, lecture notes, course slides and e-books.
@@ -48,8 +49,17 @@
 - [Codingunit](https://www.codingunit.com/) is for learning programming in several languages.
 - [Uwaterloo_StatWiki](https://wiki.math.uwaterloo.ca/statwiki/index.php?title=main_Page) provides a few sites about computer science lessons.
 
+## Python Stuff:
+- [How to write a function could use syntax "with"](https://www.ibm.com/developerworks/cn/opensource/os-cn-pythonwith/)
+
 ## TensorFlow Stuff:
 - A GitHub TensorFlow TFRecord tutorial. [GH1]
+- [Hvass Laboratory: A good site of TensorFlow Turorial](http://www.hvass-labs.org/)
+- [A good example of multi-gpu cnn with net defined in a function](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/6_MultiGPU/multigpu_cnn.py)
+- [Cifar10 multi-gpu implementation](https://github.com/tensorflow/models/blob/master/tutorials/image/cifar10/cifar10_multi_gpu_train.py)
+- [TFRecord Implementation](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/how_tos/reading_data/convert_to_records.py)
+- [How to replicate a multi-gpu model replication](https://stackoverflow.com/questions/44854258/tensorflow-replicating-model-over-multiple-gpus-and-sharing-variables)
+- [An elegant way to deal with multi-gpu model replication](https://stackoverflow.com/questions/39658422/tensorflow-in-graph-replication-example/39681588#39681588)
 
 ## Other Interesting Stuff:
 - Images in commic style. [GitHub Octodex]
