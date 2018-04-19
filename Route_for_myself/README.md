@@ -46,6 +46,7 @@
 - [Oopweb](http://oopweb.com/) Since June 2000, the object oriented programming web has been an online authority in free programming and computer science tutorials, lecture notes, course slides and e-books.
 
 ## Tutorials:
+- [MicroSoft Online Video Tutorials](https://mva.microsoft.com/search/SearchResults.aspx#!lang=2052) Aweson MicroSoft online video turorials! 
 - [Codingunit](https://www.codingunit.com/) is for learning programming in several languages.
 - [Uwaterloo_StatWiki](https://wiki.math.uwaterloo.ca/statwiki/index.php?title=main_Page) provides a few sites about computer science lessons.
 
@@ -114,6 +115,9 @@
 ## Develope:
 - [Wordpress](https://wordpress.org/plugins/) WordPress is open source software you can use to create a beautiful website, blog, or app.
 
+## Common Knowledge:
+- [jeffrey snover](https://www.youtube.com/watch?v=wUnYLfXm81s&index=1&list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si) The father of PowerShell. And **Jason Helmick** and **Don Jones** are two other aweson Powershell masters. The link is the PowerShell tutorials maked by Jeffrey and Jason.
+- [Dr. Daniel Soper](https://www.youtube.com/user/DanSoper33) A greate guy in a lot of useful technologies. The database tutorial is really aweson.[Database Tutorials](https://www.youtube.com/watch?v=4Z9KEBexzcM&list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g) 
 
 [CS 20SI]: <https://web.stanford.edu/class/cs20si/2017/syllabus.html>
 [YT1]: <https://www.youtube.com/watch?v=BhQW2OLzx_c>
