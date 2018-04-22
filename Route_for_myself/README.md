@@ -61,6 +61,7 @@
 - [TFRecord Implementation](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/how_tos/reading_data/convert_to_records.py)
 - [How to replicate a multi-gpu model replication](https://stackoverflow.com/questions/44854258/tensorflow-replicating-model-over-multiple-gpus-and-sharing-variables)
 - [An elegant way to deal with multi-gpu model replication](https://stackoverflow.com/questions/39658422/tensorflow-in-graph-replication-example/39681588#39681588)
+- [IN-Graph implementation of multi-gpu train](https://github.com/tensorflow/models/blob/91c7b91f834a5a857e8168b96d6db3b93d7b9c2a/tutorials/image/cifar10/cifar10_multi_gpu_train.py#L165)
 
 ## Other Interesting Stuff:
 - Images in commic style. [GitHub Octodex]
@@ -118,6 +119,9 @@
 ## Common Knowledge:
 - [jeffrey snover](https://www.youtube.com/watch?v=wUnYLfXm81s&index=1&list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si) The father of PowerShell. And **Jason Helmick** and **Don Jones** are two other aweson Powershell masters. The link is the PowerShell tutorials maked by Jeffrey and Jason.
 - [Dr. Daniel Soper](https://www.youtube.com/user/DanSoper33) A greate guy in a lot of useful technologies. The database tutorial is really aweson.[Database Tutorials](https://www.youtube.com/watch?v=4Z9KEBexzcM&list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g) 
+
+## Music:
+- [Mutopiaproject](http://www.mutopiaproject.org/ftp/) A lot of music materials on this ftp site.
 
 [CS 20SI]: <https://web.stanford.edu/class/cs20si/2017/syllabus.html>
 [YT1]: <https://www.youtube.com/watch?v=BhQW2OLzx_c>
