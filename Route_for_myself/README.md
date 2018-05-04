@@ -15,6 +15,9 @@
 - [Using your Head is Permitted] is a algorithm website.
 - [Leetcode] is famous online algorithm training website.
 
+## useful tools:
+- [sphinx](http://www.sphinx-doc.org/en/stable/index.html) python 文档自动生成工具。
+
 ## 刷题
 - [Lintcode](http://lintcode.com/) 在线刷题网站，汇集了各大公司的算法面试题。有阶梯式训练题库，帮你选好应该刷的题目，特别适合小白和懒人。评测数独很快，最大的中文在线题库。
 - [Geeksforgeeks](https://www.geeksforgeeks.org/)据说是印度人搞的刷题网站，上面有很多公司的面试题，也有论坛。不过上面都是英文，估计很多印度人在上面放面经，科科。
@@ -49,6 +52,7 @@
 - [MicroSoft Online Video Tutorials](https://mva.microsoft.com/search/SearchResults.aspx#!lang=2052) Aweson MicroSoft online video turorials! 
 - [Codingunit](https://www.codingunit.com/) is for learning programming in several languages.
 - [Uwaterloo_StatWiki](https://wiki.math.uwaterloo.ca/statwiki/index.php?title=main_Page) provides a few sites about computer science lessons.
+- [RG EDU](https://www.youtube.com/channel/UCqIRlOkiw6K7Cz8Xc51DNOg/playlists) A lot of good vedio tutorials.
 
 ## Python Stuff:
 - [How to write a function could use syntax "with"](https://www.ibm.com/developerworks/cn/opensource/os-cn-pythonwith/)
@@ -68,6 +72,8 @@
 - [Pollev](https://pollev.com/) An interesting PPT interactive website, to vote or something.
 - [Chris Lattner's Homepage](http://nondot.org/sabre/) The creator of Swift language and clang and LLVM!
 - [天才陶哲轩的Blog](https://terrytao.wordpress.com/) 天才陶哲轩的Blog
+- [powershell主题配色](https://github.com/robbyrussell/oh-my-zsh/wiki/themes) 各种powershell主题配色等
+- [嘶吼安全博客网站](http://www.4hou.com/)安全博客
 
 ## Other Study Materials:
 - [Numerical Recipes C++ Code] is a website containing all the Numerical Recipes C++ Code of that book.
@@ -75,6 +81,7 @@
 - [McGill University Materials](http://www.med.mcgill.ca/epidemiology/hanley/bios601/)  Statistical models materials about from McGill University
 - [CMU Class Material Collection](http://www.cs.cmu.edu/~epxing/Class/) CMU Class Material Collection of Prof. Eric Xing
 - [CMU Probabilistic Graphical Models Class Material](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html) Probabilistic Graphical Models lessons from CMU.
+- [Berkeley EECS](https://www2.eecs.berkeley.edu/Pubs/TechRpts/) Tons of materials about csee of berkeley.
 
 
 ## Some Discrete Materials:
