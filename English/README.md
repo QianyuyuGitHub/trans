@@ -583,6 +583,12 @@ play-by-play |实况播报|
 |throw me off my game |虐我|
 |I'm quite pregnant with it |我挺感兴趣的|
 
+## CNN
+- China is India's largest trading partner with a total of $84 billion in bilateral trade last year. But the economic relationship is dwarfed by the US-China trade volume, which stood at almost $600 billion.
+- Referencing the rising threat of US protectionism, Luo stressed the importance of maintaining free and open cross-border trade. "With the current backlash against globalization, a heart-to-heart dialogue between the two leaders will promote free trade," read the op-ed.
+- but it maintains formal diplomatic relations only with Beijing.
+- 
+
 break a leg 现在已经通俗为好运，不止可以用在演出，平时朋友面试 比赛 都可以这么说～  
 hold water的用法：这个观点缺乏理论/数据支撑，可以说 His opinion doesn't hold water  
 一石二鸟应该不能用“two birds”，还是建议说完整：kill two birds with one stone.  

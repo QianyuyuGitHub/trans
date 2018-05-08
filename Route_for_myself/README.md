@@ -86,7 +86,7 @@
 
 ## Some Discrete Materials:
 - [Freetechbooks](http://www.freetechbooks.com/) This site lists free online computer science, engineering and programming books, textbooks and lecture notes, all of which are legally and freely available. 
-- [Freecomputerbooks](http://freecomputerbooks.com/) Free books about computer science and etc.
+- [Freecomputerbooks](http://freecomputerbooks.com/) Free books about computer science and etc. (But not pdf)
 - [scribd](https://zh.scribd.com/) Pay for reading per month.
 - [ACM books](https://dl.acm.org/dl.cfm) I think you can download e-books through campuse's IP.(http://books.acm.org/)
 - [Archive Resources](https://archive.org/) Various of all kinds of resources including books and etc.
