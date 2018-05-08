@@ -74,6 +74,7 @@
 - [天才陶哲轩的Blog](https://terrytao.wordpress.com/) 天才陶哲轩的Blog
 - [powershell主题配色](https://github.com/robbyrussell/oh-my-zsh/wiki/themes) 各种powershell主题配色等
 - [嘶吼安全博客网站](http://www.4hou.com/)安全博客
+- [distill](https://distill.pub/) A blog of google developer of machine learning.
 
 ## Other Study Materials:
 - [Numerical Recipes C++ Code] is a website containing all the Numerical Recipes C++ Code of that book.
