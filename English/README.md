@@ -101,7 +101,7 @@ And there is also some descent ways to use English.:heartbeat:
 |Steve and I were at very different stages in our **respective careers**| 史蒂夫和我在**各自的职业生涯**中处于迥然不同的阶段。|
 |The accused man claimed that he'd been in another city the night of the murder. But his story didn't **hold water** after three different witnesses testified in court that they had seen him running from the scene of the crime.|这个被控告的人说，发生谋杀案的那天晚上他出门去了，不在当地。但是，有三个不同的证人都出庭作证说，他们看见他从作案的地点逃跑。因此，他说出事那天他不在当地的说法根本是靠不住的。 That excuse simply doesn't hold water."意思是：那个借口根本站不住脚|
 |I keep telling my friend it's foolish to gamble all of his money, but it's like **water off a duck's back.**|我一直告诉我的朋友，不要那么傻，把所有的工资都用在赌博上。可是，我的话对他全然不起作用。|
-|The doctors tell us it`s dangerous to smoke, but such good advice rolls off of some people like **water off of a duck's back**.|医生都告诉我们抽烟对身体是有害的。可是，这种劝告对于有些人来说就像耳边风一样，毫无作用。|
+|The doctors tell us it\`s dangerous to smoke, but such good advice rolls off of some people like **water off of a duck's back**.|医生都告诉我们抽烟对身体是有害的。可是，这种劝告对于有些人来说就像耳边风一样，毫无作用。|
 |The roast duck that restaurant serves is my favorite dish. Every time I think about it, it **makes my mouth water**.|我最喜欢吃那个饭馆的烤鸭。每当我想起它我就会**流口水**。|
 |The retreating German army tried to **blow up** all the bridges on the Rhine River to stop the Allied troops from crossing into Germany.|正在撤退的德国军队设法**炸毁**莱茵河上所有的桥梁来阻挡联军越过莱茵河进入德国。|
 |I really **blew up** when I learned that my girlfriend was going out with another man.|发火|
@@ -111,10 +111,10 @@ And there is also some descent ways to use English.:heartbeat:
 |All the lights went off in the building and the elevators stopped when the master fuse blew out.|大楼的总**保险丝一断**，楼里所有的灯都灭了，电梯也停了。|
 |When the Lees celebrated their 25th anniversary, they invited all their friends to a big **blow-out** at the best hotel in town.|当李家夫妇庆祝他们结婚二十五周年的时候，他们在当地最高级的旅馆里举行了一个**规模盛大的聚会**,把所有的朋友都请去了。|
 |Ed's wife is a strong-minded woman and **leads** him around **by the nose**.|埃德的太太是一个个性很强的人，埃德简直就是被她牵着鼻子走。|
-|Remember, Son, don`t let other people **lead** you around **by the nose**. You'll get along a lot better in life if you use your own judgment and do what you yourself think is the right thing.|儿子，你可千万要记住不要让别人牵着你的鼻子走。要是你能用你自己的判断力，做你认为是对的事，那你的日子会过得好得多。|
+|Remember, Son, don\`t let other people **lead** you around **by the nose**. You'll get along a lot better in life if you use your own judgment and do what you yourself think is the right thing.|儿子，你可千万要记住不要让别人牵着你的鼻子走。要是你能用你自己的判断力，做你认为是对的事，那你的日子会过得好得多。|
 |See, they were right **under your nose** the entire time.|瞧，你的眼镜一直**在你的鼻子底下**。 Under your nose的意思也就是一样东西离你很近，但是，你就是没有看到。|
 |Did you read in the paper how bold that robber was at the art museum? He cut three paintings from their frames and walked out with them right **under the guards' noses**.|你有没有在报上看到关于那个去博物馆偷东西的贼有多么大胆的消息吗？他把三幅画从镜框里割了下来，然后就竟然**在警卫的鼻子底下**带出了博物馆。|
-|I have bad news: our sales were off 18% for the last quarter. So I'm telling you guys -- you have to **pull your socks up* and get out there and sell more stuff, or you'll be looking for new jobs this summer.|我有个不好的消息：我们上一季度的销售量下降了18%，所以我告诉你们，你们**赶快振作起来**到外面去加紧推销。否则，你们今年夏天就要另外找工作了。|
+|I have bad news: our sales were off 18% for the last quarter. So I'm telling you guys -- you have to **pull your socks up** and get out there and sell more stuff, or you'll be looking for new jobs this summer.|我有个不好的消息：我们上一季度的销售量下降了18%，所以我告诉你们，你们**赶快振作起来**到外面去加紧推销。否则，你们今年夏天就要另外找工作了。|
 |Wait until you hear my new marketing plan -- it'll **knock you socks off!**|等你们听到我的推销计划时，**你们都会大吃一惊的。** (也就是说，他的推销计划简直好极了，那些推销员听了会十分惊讶的。)|
 |Have you seen Jack's sister, who's here visiting from California? She'll **knock your socks off**: she's the most gorgeous-looking woman I've seen for a long time.|你见到了杰克那个从加州来的妹妹吗？我好久没有见到过这样漂亮的女孩了，她简直是**美得惊人**。|
 |I never know whether my boss likes my work or not -- he is a real poker face!|我从来也不知道我的老板到底喜不喜欢我的工作。他脸上可真是**一点表情都没有**。|
@@ -587,6 +587,10 @@ play-by-play |实况播报|
 - China is India's largest trading partner with a total of $84 billion in bilateral trade last year. But the economic relationship is dwarfed by the US-China trade volume, which stood at almost $600 billion.
 - Referencing the rising threat of US protectionism, Luo stressed the importance of maintaining free and open cross-border trade. "With the current backlash against globalization, a heart-to-heart dialogue between the two leaders will promote free trade," read the op-ed.
 - but it maintains formal diplomatic relations only with Beijing.
+- Trump's opposition to Blankenship comes as West Virginia Republican insiders suggest that the recent spate(泛滥) of controversy surrounding the former coal mine owner has actually given him a bit of momentum heading into Tuesday's face-off against Rep. Evan Jenkins and state Attorney General Patrick Morrisey.
+- No more fumbles(摸索) like Alabama.
+- Think back to Trump's decision to get involved in the Alabama special election on behalf of embattled(四面楚歌) former state Supreme Court Chief Justice Roy Moore. Sure, Trump endorsed Moore's primary opponent -- appointed Sen. Luther Strange -- but when it became clear that Moore could well win despite the large number of women who came forward to say he had sought relationships with them when they were under age, Trump went all in for Moore.
+- poll 轮询，投票
 - 
 
 break a leg 现在已经通俗为好运，不止可以用在演出，平时朋友面试 比赛 都可以这么说～  
