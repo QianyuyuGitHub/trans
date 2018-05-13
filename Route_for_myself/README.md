@@ -17,6 +17,9 @@
 
 ## useful tools:
 - [sphinx](http://www.sphinx-doc.org/en/stable/index.html) python 文档自动生成工具。
+- [sourcegraph](https://about.sourcegraph.com/) Sourcegraph is a free, self-hosted code search and intelligence server that helps developers find, review, understand, and debug code. 
+- [rpcs3](https://rpcs3.net/) PS3 PC stimulator.
+- [ps3jailbreakdownloadfree](https://www.ps3jailbreakdownloadfree.com/ps3-pkg-games-list-rap/) Download ps3 pkg files.
 
 ## 刷题
 - [Lintcode](http://lintcode.com/) 在线刷题网站，汇集了各大公司的算法面试题。有阶梯式训练题库，帮你选好应该刷的题目，特别适合小白和懒人。评测数独很快，最大的中文在线题库。
