@@ -17,6 +17,7 @@
 
 ## useful tools:
 - [sphinx](http://www.sphinx-doc.org/en/stable/index.html) python 文档自动生成工具。
+- [ELKI](https://github.com/elki-project/elki) ELKI aims at allowing the development and evaluation of advanced data mining algorithms and their interaction with database index structures. Drawing tools common in wikipedia.
 - [sourcegraph](https://about.sourcegraph.com/) Sourcegraph is a free, self-hosted code search and intelligence server that helps developers find, review, understand, and debug code. 
 - [rpcs3](https://rpcs3.net/) PS3 PC stimulator.
 - [ps3jailbreakdownloadfree](https://www.ps3jailbreakdownloadfree.com/ps3-pkg-games-list-rap/) Download ps3 pkg files.
@@ -56,9 +57,24 @@
 - [Codingunit](https://www.codingunit.com/) is for learning programming in several languages.
 - [Uwaterloo_StatWiki](https://wiki.math.uwaterloo.ca/statwiki/index.php?title=main_Page) provides a few sites about computer science lessons.
 - [RG EDU](https://www.youtube.com/channel/UCqIRlOkiw6K7Cz8Xc51DNOg/playlists) A lot of good vedio tutorials.
+- [donghuaxsp](http://www.donghuaxsp.com/) A chinese animation cite, including some tutorials and etc.
 
 ## Python Stuff:
+- [Turtle Drawing Package](https://docs.python.org/3.3/library/turtle.html?highlight=turtle) A Python library for pulling data out of HTML and XML files.
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
+- [Sphinx](http://www.sphinx-doc.org/en/stable/index.html) A tool to make documentation for python project automatically.
+- [Debug in Command Line] pdb/ipdb.
 - [How to write a function could use syntax "with"](https://www.ibm.com/developerworks/cn/opensource/os-cn-pythonwith/)
+- [Python Turoial about Hand Writting Enhancing](https://mzucker.github.io/2016/09/20/noteshrink.html) Compressing and enhancing hand-written notes
+- [Python Egg Making](http://xiaoh.me/2015/12/11/python-egg/) how to make python package/egg.(pip)
+- [DUKE](http://people.duke.edu/~ccc14/sta-663-2017/) DUKE tutorials of machine learning.
+- [DUKE](https://people.duke.edu/~ccc14/sta-663/MultivariateOptimizationAlgortihms.html) Python tutorials about machine learning.
+
+## Wait to Scripy:
+- [berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa13/slides/)
+- [berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/)
+- [IMM DTU](http://www2.imm.dtu.dk/pubdb/public/publications.php?year=&pubtype=&pubsubtype=&section=&cmd=full_view&lastndays=&order=author)
+- [](http://een.iust.ac.ir/profs/)
 
 ## TensorFlow Stuff:
 - A GitHub TensorFlow TFRecord tutorial. [GH1]
@@ -70,14 +86,17 @@
 - [An elegant way to deal with multi-gpu model replication](https://stackoverflow.com/questions/39658422/tensorflow-in-graph-replication-example/39681588#39681588)
 - [IN-Graph implementation of multi-gpu train](https://github.com/tensorflow/models/blob/91c7b91f834a5a857e8168b96d6db3b93d7b9c2a/tutorials/image/cifar10/cifar10_multi_gpu_train.py#L165)
 
+## PowerShell:
+- [powershell主题配色](https://github.com/robbyrussell/oh-my-zsh/wiki/themes) 各种powershell主题配色等
+
 ## Other Interesting Stuff:
 - Images in commic style. [GitHub Octodex]
 - [Pollev](https://pollev.com/) An interesting PPT interactive website, to vote or something.
 - [Chris Lattner's Homepage](http://nondot.org/sabre/) The creator of Swift language and clang and LLVM!
 - [天才陶哲轩的Blog](https://terrytao.wordpress.com/) 天才陶哲轩的Blog
-- [powershell主题配色](https://github.com/robbyrussell/oh-my-zsh/wiki/themes) 各种powershell主题配色等
 - [嘶吼安全博客网站](http://www.4hou.com/)安全博客
 - [distill](https://distill.pub/) A blog of google developer of machine learning.
+- [Puredata](https://puredata.info/) Pure Data (or just Pd) is an open source visual programming language for multimedia.
 
 ## Other Study Materials:
 - [Numerical Recipes C++ Code] is a website containing all the Numerical Recipes C++ Code of that book.
@@ -86,7 +105,6 @@
 - [CMU Class Material Collection](http://www.cs.cmu.edu/~epxing/Class/) CMU Class Material Collection of Prof. Eric Xing
 - [CMU Probabilistic Graphical Models Class Material](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html) Probabilistic Graphical Models lessons from CMU.
 - [Berkeley EECS](https://www2.eecs.berkeley.edu/Pubs/TechRpts/) Tons of materials about csee of berkeley.
-
 
 ## Some Discrete Materials:
 - [Freetechbooks](http://www.freetechbooks.com/) This site lists free online computer science, engineering and programming books, textbooks and lecture notes, all of which are legally and freely available. 
@@ -119,6 +137,8 @@
 
 ## Interesting Things:
 - [Jepenese Artist on Small Vision Picture](http://miniature-calendar.com/) 
+- [Danny Artist](http://www.smoothware.com/danny/) 交互器械艺术家
+- [mojeyuka](https://twitter.com/mojeyuka) A AI CG charactor!
 - [喜达屋网上商城](https://www.sheratonstore.cn/zh_cn/) 可以买到喜达屋的床品等
 - [万豪网上商城](https://www.shopmarriott.cn/zh_cn/) 可以买到万豪酒店的各种商品
 - [Westin网上商城](https://www.westinstore.cn/zh_cn/) 

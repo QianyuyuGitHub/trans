@@ -1,9 +1,34 @@
 # segmentation In Deep Learning
 
-semantic segmentation: 
-labeling every pixel of image and using sliding window/filter to classify single patchse requires tons of effort to do. Breaking image into craps uesd for semantic segmentation is what you could possibly do, but with a corresponding crop to store the labels for every single pixel this will be such a time and storage consuming idea to implement. 
+## semantic segmentation: 
+labeling every pixel of image and using sliding window/filter to classify single patchse requires tons of effort to do. Breaking image into crops uesd for semantic segmentation is what you could possibly do, but with a corresponding crop to store the labels for every single pixel this will be such a time and storage consuming idea to implement.  
+
+### Convolutional Neural Networks
 Another idea is to use convolutional neural networks instead of fully connected networks, so that you could rather than extracting individual patches from the image to classify them independently, you may directly send in the whole iamge without worrying about croping issues. But still, the cost of labeling the dataset is way too expensive. Normally it require annotations by people using cortour drawing tools.
-To get rid of this issue, we could think over about fully convolutional layers with downsampling and upsampling.
+To get rid of this issue, we could think over about fully convolutional layers with downsampling and upsampling. Using unpooling techniques such as Transpose Convolution, you may reget the same size image but in lower information entropy for some loss of information during previous processes. 
+
+### AlexNet
+In localization scenario you may consider this is the target objects in images and just need to locate them. So we could divide the architecture into two parallel parts. One will output the probablity of categories, another will output the location of objects. So two losses are trained in the same time.
+
+### Region Proposals Convolutional Neural Networks
+Sliding Window Approaches could allow you to check all the crops you want and predict the catagory of it. But the crazy overhead crop choosing stretagy. So there is a important concept called Region Proposals. It will return proposals with high recall rate. So with this Region Proposal layer, now we get the import milestone called R-CNN. R-CNN will classify regions with SVMs. In addtion, the R-CNN will return a crop that fits object better. But the pitty thing is, even the R-CNN is a greate concept but it's slow.
+
+### Fast R-CNN
+So in order to fix the natural flaw of R-CNN, put a forward ConvNet to generate the feature map of input images, we could now use region proposal to crop the feature map. And with a middle layer between fully-connected layers and Regions of Interest Rols(RoIs) layer, called RoI Pooling layer, to reshape crops from the feature map. But the sad part is this method is still not perfect enough. Runtime of it is dominated by region proposals. 
+
+### Faster R-CNN
+To accelerate the bottleneck of Fast R-CNN, which is the Region Proposal Network process, we could add a regression process to train the Region Proposal Network itself as well. But things may be a little hairy since we could not know the ground truth of Region Proposal Network, but we will leave it here. So to conclude, this Faster R-CNN method is a highly advanced method that contains a few multi tasks.
+
+### Mask R-CNN
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
 
 # Image Segmentation
 
@@ -11,10 +36,22 @@ As a fundamental problem set of tremendous science problems, image segmentation 
 
 Thresholding:
 Thresholding is considered the simplest solution program to it. Basing on a threshold value, turn a gray-scale image into a binary image. And namely, this is called balanced histogram thresholding. The key part is mainly about the choice of threshold value(values with multiple-levels are selected). Such methods could be named: Otsu’s method(maximum variance), and k-means clustering. And recently these methods are developed for thresholding Computed Tomography(CT) images. Mostly it’s thresholds are derived from the radiographs instead of the reconstructed image.
+
 Clustering Methods:
 Another inevitably topic is Clustering Methods. It’s a well-applied idea in machine learning progresses. Widely developed and improved. It’s now a classic and useful tool to get the data inner groups separated from each other. It’s also a vital task of data mining and statistical data analysis. Could be used for pattern recognization, image analysis, information retrieval, bioinformatics, data compression and computer graphics. Clustering notions includes small distances between cluster members, dense areas of the data space, intervals or particular statistical distributions. Therefore, clustering will be a multi optimization problem. 
 There are several clustering algorithms, Connectivity-based clustering is one of the popular, known as hierarchical clustering methods also. Basically the whole idea is base on a determination of distance between samples. So it might be extremely important for users to decide which distance function they should providing. Meanwhile, linkage criterion should be considered as well for there is always more than one objects. (Such as single-linkage clustering(the minimum of object distance), complete linkage clustering(the maximum of object distance) and Unweighted Pair Group Method with Arithmetic Mean). More sophisticatedly speaking, hierarchical clustering can be agglomerative(begining with single elements and aggregating them into clusters) or divisive(starting with the complete data set and dividing it into partitions ). Centroid-based clustering is another remarkable one. And a particularly approximate method is Lloyd’s algorithm(k-means) for the original problem itself will be NP hard. K-means is a widely used algorithm. It has some loose relationship to the k-nearest neighbor classifier. In short, the aim is to find the minimal within-cluster sum of squares through derivations.
 Distribution-Based clustering is another kind of clustering algorithm. Literally, it's based on distribution models. Take Expectation-Maximization(EM) clustering algorithm as an prominent example, it's the background algorithm that Gaussian Misture models use. In Gaussian Misture model, EM method will iteratively get closer to the target set, but instead, how to choose the complexity is inherently difficult.
 Density-Based clustering is also a astonishing clustering algorithm. The most popular one may be Density-based spatial clustering of applications with noise(DBSCAN). Similar to linkage based clustering, it will connect points within certain distance thresholds. Clusters are defined as higher density areas than the remainders. This method is lacking ability to precisely devide the clusters comparing to the OPTICS method.
-Compression-Based Methods
-Compression based methods postulate the optimal segmentation is the one to minimize the coding length of the data. 
+
+Compression-Based Methods:
+Compression based methods postulate the optimal segmentation is the one to minimize the coding length of the data. And the coding length has positive correlation to the smooth degree of objects' boundary. In the meanwhile, the texture is encoded by lossy compression similar to minimum description length(MDL) pricinple, the length is approximated by the sample counts times entropy of the model.
+
+Histogram-Based Methods:
+Histogram-based methoda are efficient in some way, not like other common methods, this method only revrive the data for once. It recursively apply the histogram-seeking method to clusters to divide them into smaller clusters till no more clusters are formed. The difference is it could also be adapted to apply to multiple frames, so this method could manage to deal with the video tracking task.
+
+Edge Detection:
+Edge detection is a well-developed sub field in image processing. Boundary and edge are highly related for the boundary always has sharp adjustment. So here the edge detection will show up to deal with the segmentation problem as well. The details will be irrelevant, but to point out, this method will focus on the sharp changing around the boundaries by detecting a derivative expression.
+
+Region-Growing Methods:
+Region-Growing methods forms on the assumption that neighboring pixels within one region have similar values. Iteratively comparing all unallocated pixels into the with-growing regions, is will end up with all the pixels belong to one region. 
+
