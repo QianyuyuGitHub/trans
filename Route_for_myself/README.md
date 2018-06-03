@@ -42,6 +42,7 @@
 - Standford -- Tensorflow for Deep Learning Research. [CS 20SI]
 - Estimator API tutorial from YouTube. -- [YT1]
 - [CS Dojo] is a YouTube Channel held by a jepenese CS programmer who will introduce some interviewing algorithm problems.
+- [MIT Open Course](https://ocw.mit.edu/index.htm)
 
 ## Reading Material/ Programming Learning:
 - [Python Course] A Python Course which is so comprehensive. 
@@ -70,11 +71,20 @@
 - [DUKE](http://people.duke.edu/~ccc14/sta-663-2017/) DUKE tutorials of machine learning.
 - [DUKE](https://people.duke.edu/~ccc14/sta-663/MultivariateOptimizationAlgortihms.html) Python tutorials about machine learning.
 
+## PyQT:
+- [pyqt_qss template](https://github.com/XLTools/BreezeStyleSheets)
+- [pyqt example -labeling tool](https://github.com/tzutalin/labelImg#labelimg)
+
 ## Wait to Scripy:
 - [berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa13/slides/)
 - [berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/)
 - [IMM DTU](http://www2.imm.dtu.dk/pubdb/public/publications.php?year=&pubtype=&pubsubtype=&section=&cmd=full_view&lastndays=&order=author)
 - [](http://een.iust.ac.ir/profs/)
+- [](http://people.duke.edu/~hpgavin/ce281/)
+- [](http://www1.ece.neu.edu/~ychang/notes/)
+- [](http://pages.cs.wisc.edu/~amos/412/lecture-notes/)
+- [](https://www.math.uh.edu/~jingqiu/math4364/)
+- [](http://www.gbv.de/dms/tib-ub-hannover/767024508.pdf)
 
 ## TensorFlow Stuff:
 - A GitHub TensorFlow TFRecord tutorial. [GH1]
@@ -89,7 +99,7 @@
 ## PowerShell:
 - [powershell主题配色](https://github.com/robbyrussell/oh-my-zsh/wiki/themes) 各种powershell主题配色等
 
-## Other Interesting Stuff:
+## Other Interesting Stuff:- [简笔画 法国 画家](https://www.fredericforest.com/)
 - Images in commic style. [GitHub Octodex]
 - [Pollev](https://pollev.com/) An interesting PPT interactive website, to vote or something.
 - [Chris Lattner's Homepage](http://nondot.org/sabre/) The creator of Swift language and clang and LLVM!
@@ -97,6 +107,8 @@
 - [嘶吼安全博客网站](http://www.4hou.com/)安全博客
 - [distill](https://distill.pub/) A blog of google developer of machine learning.
 - [Puredata](https://puredata.info/) Pure Data (or just Pd) is an open source visual programming language for multimedia.
+- [color themes](http://color-themes.com/?view=index)
+- [How To Build Neural Network Without Freamwork](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6) how-to-build-your-own-neural-network-from-scratch-in-python
 
 ## Other Study Materials:
 - [Numerical Recipes C++ Code] is a website containing all the Numerical Recipes C++ Code of that book.
