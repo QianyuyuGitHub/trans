@@ -54,6 +54,7 @@
 - [Oopweb](http://oopweb.com/) Since June 2000, the object oriented programming web has been an online authority in free programming and computer science tutorials, lecture notes, course slides and e-books.
 
 ## Tutorials:
+- [Stanford Android Courses CS 193A, Winter 2017](http://web.stanford.edu/class/cs193a/lectures.shtml)
 - [MicroSoft Online Video Tutorials](https://mva.microsoft.com/search/SearchResults.aspx#!lang=2052) Aweson MicroSoft online video turorials! 
 - [Codingunit](https://www.codingunit.com/) is for learning programming in several languages.
 - [Uwaterloo_StatWiki](https://wiki.math.uwaterloo.ca/statwiki/index.php?title=main_Page) provides a few sites about computer science lessons.
@@ -76,6 +77,10 @@
 - [pyqt example -labeling tool](https://github.com/tzutalin/labelImg#labelimg)
 
 ## Wait to Scripy:
+- [Stanford ProgramSheets](https://cs.stanford.edu/degrees/undergrad/ProgramSheets.shtml)
+- [Stanford CS master program](https://cs.stanford.edu/degrees/mscs/programsheets/)
+- [CMU curriculum](http://coursecatalog.web.cmu.edu/servicesandoptions/intercollegeprograms/bxaintercollege/#bha_curriculumtext)
+- [CMU Catalog](http://coursecatalog.web.cmu.edu/previous/)
 - [berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa13/slides/)
 - [berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/)
 - [IMM DTU](http://www2.imm.dtu.dk/pubdb/public/publications.php?year=&pubtype=&pubsubtype=&section=&cmd=full_view&lastndays=&order=author)
@@ -117,6 +122,7 @@
 - [CMU Class Material Collection](http://www.cs.cmu.edu/~epxing/Class/) CMU Class Material Collection of Prof. Eric Xing
 - [CMU Probabilistic Graphical Models Class Material](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html) Probabilistic Graphical Models lessons from CMU.
 - [Berkeley EECS](https://www2.eecs.berkeley.edu/Pubs/TechRpts/) Tons of materials about csee of berkeley.
+- [国外知名大学的课件共享网站，有限，类似百度文库或者知网](https://oneclass.com/)
 
 ## Some Discrete Materials:
 - [Freetechbooks](http://www.freetechbooks.com/) This site lists free online computer science, engineering and programming books, textbooks and lecture notes, all of which are legally and freely available. 
@@ -155,6 +161,7 @@
 - [万豪网上商城](https://www.shopmarriott.cn/zh_cn/) 可以买到万豪酒店的各种商品
 - [Westin网上商城](https://www.westinstore.cn/zh_cn/) 
 - [Whotelsthestore](https://www.whotelsthestore.cn/zh_cn/) 
+- [漏洞网站](http://zerodium.com/)
 
 ## Develope:
 - [Wordpress](https://wordpress.org/plugins/) WordPress is open source software you can use to create a beautiful website, blog, or app.
